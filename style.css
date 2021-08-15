@@ -1,0 +1,18 @@
+h1{
+    font-size: 72px;
+}
+
+body{
+    text-align: center;
+}
+
+h2{
+    font-size: 50px;
+}
+
+button{
+    width: 150px;
+    height: 50px;
+    border-radius: 8px;
+    background-color: #399c9545;
+}
